@@ -1,4 +1,5 @@
 import React from 'react';
+import BeerCard from './BeerCard.js';
 
 const BeerList = props => {
     const { beers } = beers
